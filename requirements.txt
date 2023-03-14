@@ -1,2 +1,4 @@
 streamlit-aggrid
 st_aggrid
+streamlit
+pandas
